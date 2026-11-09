@@ -19,20 +19,15 @@ Je développe principalement avec **Flutter et Dart**. Mes projets sont souvent 
 **Au cœur de mon travail :** Flutter · Dart  
 **Autres technologies utilisées dans mes projets :** Go · Python · JavaScript · Supabase · PostgreSQL
 
-## Projets sélectionnés
+## Projets publics
 
 | Projet | Description |
 |---|---|
-| [🎾 setpoint](https://github.com/NassB/setpoint) | Jeu de manager de tennis textuel en Flutter, avec carrière, entraînement et tournois. |
-| [⚽ Kick-N-Score](https://github.com/NassB/Kick-N-Score) · [Backend Supabase](https://github.com/NassB/kick-n-score-supabase) | Outils pour organiser et gérer des tournois. |
-| [📊 database_benchmarks](https://github.com/NassB/database_benchmarks) | Application Flutter de benchmark de bases de données avec résultats en direct. |
-| [🚶 walking-pad-distance-modifier](https://github.com/NassB/walking-pad-distance-modifier) | Extension Chrome pour modifier la distance de fichiers d'activité de tapis de marche. |
-| [🕷️ fff-scraper](https://github.com/NassB/fff-scraper) | Script Python pour récupérer les clubs de football par département. |
+| [🔀 dualnet](https://github.com/NassB/dualnet) | Outil Windows pour combiner plusieurs connexions Internet sur un même PC, sans serveur distant. [Télécharger](https://github.com/NassB/dualnet/releases/latest) |
+| [📊 database_benchmarks](https://github.com/NassB/database_benchmarks) | Application Flutter pour comparer des bases de données mobiles dans des conditions reproductibles. |
+| [🚶 walking-pad-distance-modifier](https://github.com/NassB/walking-pad-distance-modifier) | Extension Chrome pour ajuster les distances dans des fichiers d'activité de tapis de marche. |
+| [🛠️ mhp3rd-translation-toolkit](https://github.com/NassB/mhp3rd-translation-toolkit) | Toolkit Dart en développement pour créer des outils de traduction et de modding pour Monster Hunter Portable 3rd. |
 
 ## Activité GitHub
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=NassB&show_icons=true&theme=tokyonight&hide_border=true" alt="Statistiques GitHub de Nassim" />
-
-</div>
+Le graphique de contributions natif de GitHub est visible sur [mon profil](https://github.com/NassB). Tu y trouveras aussi l'ensemble de mes dépôts publics.
