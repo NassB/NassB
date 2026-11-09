@@ -12,7 +12,7 @@
 
 ## À propos
 
-Je conçois des applications mobiles avec **Flutter et Dart**. Je m'intéresse aussi aux jeux de gestion, aux outils de tournoi et aux expérimentations autour des bases de données.
+Je développe principalement avec **Flutter et Dart**. Mes projets sont souvent des essais autour d'outils qui répondent à mes propres besoins, avec l'envie qu'ils puissent aussi être utiles à d'autres.
 
 ## Technologies
 
