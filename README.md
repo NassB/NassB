@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:02569B,100:13B9FD&height=180&section=header&text=Nassim%20B.&fontSize=50&fontColor=ffffff" alt="Bannière Nassim B." />
-
 # Nassim B.
 
 ### Développeur mobile Flutter · France
