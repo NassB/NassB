@@ -41,7 +41,7 @@ I mainly work with **Flutter and Dart**. My projects are often experiments aroun
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/NassB/dualnet">🔀 dualnet</a></h3>
+      <h3><img src="assets/dualnet.png" width="32" height="32" align="top" alt=""> <a href="https://github.com/NassB/dualnet">dualnet</a></h3>
       Windows tool to combine several Internet connections on a single PC, with no remote server.<br><br>
       <a href="https://github.com/NassB/dualnet/releases/latest">⬇️ Download</a>
     </td>
@@ -52,7 +52,7 @@ I mainly work with **Flutter and Dart**. My projects are often experiments aroun
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/NassB/walking-pad-distance-modifier">🚶 walking-pad-distance-modifier</a></h3>
+      <h3><img src="assets/walking-pad-distance-modifier.png" width="32" height="32" align="top" alt=""> <a href="https://github.com/NassB/walking-pad-distance-modifier">walking-pad-distance-modifier</a></h3>
       Chrome extension to adjust distances in walking pad activity files.
     </td>
     <td width="50%" valign="top">

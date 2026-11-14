@@ -41,7 +41,7 @@ Je développe principalement avec **Flutter et Dart**. Mes projets sont souvent 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/NassB/dualnet">🔀 dualnet</a></h3>
+      <h3><img src="assets/dualnet.png" width="32" height="32" align="top" alt=""> <a href="https://github.com/NassB/dualnet">dualnet</a></h3>
       Outil Windows pour combiner plusieurs connexions Internet sur un même PC, sans serveur distant.<br><br>
       <a href="https://github.com/NassB/dualnet/releases/latest">⬇️ Télécharger</a>
     </td>
@@ -52,7 +52,7 @@ Je développe principalement avec **Flutter et Dart**. Mes projets sont souvent 
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/NassB/walking-pad-distance-modifier">🚶 walking-pad-distance-modifier</a></h3>
+      <h3><img src="assets/walking-pad-distance-modifier.png" width="32" height="32" align="top" alt=""> <a href="https://github.com/NassB/walking-pad-distance-modifier">walking-pad-distance-modifier</a></h3>
       Extension Chrome pour ajuster les distances dans des fichiers d'activité de tapis de marche.
     </td>
     <td width="50%" valign="top">
